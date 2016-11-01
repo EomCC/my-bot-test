@@ -4,7 +4,7 @@ var app = express();
 var request = require('request');
 
 
-const CHANNEL_ID = 1467840106;
+const CHANNEL_ID = 1486515953;
 const CHANNEL_SECRET = "CHANNEL_SECRET";
 const MID = "MID";
 
