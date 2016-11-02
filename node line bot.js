@@ -5,7 +5,7 @@ var request = require('request');
 
 
 const CHANNEL_ID = 1486515953;
-const CHANNEL_SECRET = "CHANNEL_SECRET";
+const CHANNEL_SECRET = "61e61fb3aa20737edd5be0154101b668";
 const MID = "MID";
 
 const sendHeader = {
